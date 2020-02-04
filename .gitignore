@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+/dist
+
+baidu-test
+
+
+*.zip
+
+
+
+*.db
+
+
+*.torrent
+*.exe
+*.mp4

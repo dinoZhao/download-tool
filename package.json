@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "aria2": "^4.1.0",
+    "core-js": "^3.6.0",
+    "filesize": "^6.0.1",
+    "fkill": "^6.2.0",
+    "mime-types": "^2.1.26",
+    "portscanner": "^2.2.0",
+    "torrent-downloader": "^0.1.1"
+  }
+}
